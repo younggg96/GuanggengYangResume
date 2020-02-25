@@ -1,5 +1,3 @@
-# younggg96.github.io
+### Guanggeng Yang's Resume website
 
-# Guanggeng Yang's Resume website
-
-## **http://younggg.gq/**
+### link:  **http://younggg.gq/**
